@@ -7,3 +7,6 @@
 - `git switch <BRANCH>`: move to the branch
 	- `git checkout <BRANCH>`: older way to switch
 - `git log --oneline --graph --all`
+- `git switch -c <BRANCH>`
+- pull request:
+
