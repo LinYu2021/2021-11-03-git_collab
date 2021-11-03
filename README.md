@@ -10,5 +10,10 @@
 	- `git checkout <BRANCH>`: older way to switch
 - `git log --oneline --graph --all`
 - `git switch -c <BRANCH>`
-- pull request:
+- pull request
+
+# Cleanup
+- `git fetch --prune`
+- `git branch -d <BRANCH>`:delte the branch, will fail if merge not completed
+	- `git branch -D <BRANCH>`: force delete branch
 
