@@ -6,4 +6,4 @@
 	- `git branch -a`: lists all your branches, including the remote
 - `git switch <BRANCH>`: move to the branch
 	- `git checkout <BRANCH>`: older way to switch
-
+- `git log --oneline --graph --all`
