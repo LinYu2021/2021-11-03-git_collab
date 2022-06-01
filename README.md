@@ -12,3 +12,4 @@
 - `git switch -c <BRANCH>`
 - pull request:
 
+added something 01.06
